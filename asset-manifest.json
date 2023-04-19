@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/amol/static/css/main.e1e8751e.css",
-    "main.js": "/amol/static/js/main.cec20a63.js",
+    "main.css": "/amol/static/css/main.0f1f1036.css",
+    "main.js": "/amol/static/js/main.328e02eb.js",
     "static/js/787.7a8a85f2.chunk.js": "/amol/static/js/787.7a8a85f2.chunk.js",
     "static/media/about.jpg": "/amol/static/media/about.5e4dbe9b5e01a6b277dd.jpg",
     "static/media/profile.jpg": "/amol/static/media/profile.fd6bdde9e679af71b3b3.jpg",
     "static/media/Amol.pdf": "/amol/static/media/Amol.142309ba4533f559f8b8.pdf",
     "index.html": "/amol/index.html",
-    "main.e1e8751e.css.map": "/amol/static/css/main.e1e8751e.css.map",
-    "main.cec20a63.js.map": "/amol/static/js/main.cec20a63.js.map",
+    "main.0f1f1036.css.map": "/amol/static/css/main.0f1f1036.css.map",
+    "main.328e02eb.js.map": "/amol/static/js/main.328e02eb.js.map",
     "787.7a8a85f2.chunk.js.map": "/amol/static/js/787.7a8a85f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1e8751e.css",
-    "static/js/main.cec20a63.js"
+    "static/css/main.0f1f1036.css",
+    "static/js/main.328e02eb.js"
   ]
 }
