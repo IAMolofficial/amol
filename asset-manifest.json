@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/amol/static/css/main.0f1f1036.css",
-    "main.js": "/amol/static/js/main.328e02eb.js",
+    "main.css": "/amol/static/css/main.c2ea6df4.css",
+    "main.js": "/amol/static/js/main.fe27c587.js",
     "static/js/787.7a8a85f2.chunk.js": "/amol/static/js/787.7a8a85f2.chunk.js",
     "static/media/about.jpg": "/amol/static/media/about.5e4dbe9b5e01a6b277dd.jpg",
     "static/media/profile.jpg": "/amol/static/media/profile.fd6bdde9e679af71b3b3.jpg",
-    "static/media/Amol.pdf": "/amol/static/media/Amol.142309ba4533f559f8b8.pdf",
+    "static/media/Resume.pdf": "/amol/static/media/Resume.b571d6ed26a0fc5a5243.pdf",
     "index.html": "/amol/index.html",
-    "main.0f1f1036.css.map": "/amol/static/css/main.0f1f1036.css.map",
-    "main.328e02eb.js.map": "/amol/static/js/main.328e02eb.js.map",
+    "main.c2ea6df4.css.map": "/amol/static/css/main.c2ea6df4.css.map",
+    "main.fe27c587.js.map": "/amol/static/js/main.fe27c587.js.map",
     "787.7a8a85f2.chunk.js.map": "/amol/static/js/787.7a8a85f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f1f1036.css",
-    "static/js/main.328e02eb.js"
+    "static/css/main.c2ea6df4.css",
+    "static/js/main.fe27c587.js"
   ]
 }
