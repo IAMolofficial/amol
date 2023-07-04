@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Amol.pdf";
+import CV from "../../assets/Resume.pdf";
 import Info from './Info';
 const About = () => {
   return (
@@ -13,7 +13,7 @@ const About = () => {
         <div className="about__data">
             <Info/>
             <p className="about__description">
-            I'm a fresher full stack developer. HTML, CSS, JavaScript & React.js is my tool, crafting elegant web apps, that's what makes me cool.</p>
+            I'm a React.JS developer. HTML, CSS, JavaScript & React.js is my tool, crafting elegant web apps, that's what makes me cool.</p>
             <a download="" href={CV} className="button button--flex">Resume
             <svg
                 class="button__icon"
